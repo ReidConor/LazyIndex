@@ -10,7 +10,7 @@
 *.fot
 *.cb
 *.cb2
-
+*.gz
 
 
 # Byte-compiled / optimized / DLL files
